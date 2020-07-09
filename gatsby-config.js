@@ -32,5 +32,7 @@ module.exports = {
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
     "gatsby-plugin-eslint",
+    "gatsby-plugin-styled-components",
+    "@danbruegge/gatsby-plugin-stylelint",
   ],
 }
