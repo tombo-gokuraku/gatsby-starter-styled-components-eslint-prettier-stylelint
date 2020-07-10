@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Default Starter",
+    title: "gatsby-starter-styled-components-eslint-prettier-stylelint",
     description:
-      "Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.",
-    author: "@gatsbyjs",
+      "Basic Gatsby starter for using styled-components. Linting with ESLint and stylelint.",
+    author: "@tombo-gokuraku",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
